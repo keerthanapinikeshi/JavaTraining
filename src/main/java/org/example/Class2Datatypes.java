@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class Class2Datatypes {
 
     int y = 10;
     float z =87;
@@ -16,7 +16,7 @@ class C{
 class B{
     public static void main(String[] args) {
 
-        Main x= new Main();
+        Class2Datatypes x= new Class2Datatypes();
         System.out.println("Integer is: "+(x.y));
         System.out.println("Float value is: "+(x.z));
         System.out.println("Typecasting your float to char: "+(char)x.z);
