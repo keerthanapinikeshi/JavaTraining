@@ -4,14 +4,12 @@ public class Class2Datatypes {
 
     int y = 10;
     float z =87;
-    // String s="Hello!";
+
 
 }
 class C{
     String s2="Hey!";
-    //Main g=new Main();
-    // String s3;
-    //s3=g.s;
+
 }
 class B{
     public static void main(String[] args) {
